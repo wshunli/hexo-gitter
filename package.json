@@ -1,6 +1,6 @@
 {
   "name": "hexo-gitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A generator for Hexo that adds Gitter to every page.",
   "main": "index.js",
   "scripts": {

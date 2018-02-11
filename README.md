@@ -22,12 +22,12 @@ Add the hexo-gitter to your theme template
 <%- gitter('RoomName') %>
 ```
 
-`room` represents Gitter's room, which can be found on the Gitter website
+`RoomName` represents Gitter's room, which can be found on the Gitter website
 
 ## Examples
 
 ``` JavaScript
-<%- gitter('wshunli/Lobby') %>
+<%- gitter('wshunli/hexo-gitter') %>
 ```
 
 ## License
