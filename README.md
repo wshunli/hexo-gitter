@@ -1,5 +1,6 @@
 # hexo-gitter
 
+[![Gitter](https://badges.gitter.im/wshunli/hexo-gitter.svg)](https://gitter.im/wshunli/hexo-gitter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![npm](https://img.shields.io/npm/v/hexo-gitter.svg)](https://www.npmjs.com/package/hexo-gitter)
 [![Travis](https://img.shields.io/travis/wshunli/hexo-gitter.svg)](https://travis-ci.org/wshunli/hexo-gitter)
 [![GitHub license](https://img.shields.io/github/license/wshunli/hexo-gitter.svg)](https://github.com/wshunli/hexo-gitter)
